@@ -1,0 +1,34 @@
+{
+  "id": "wildfollowers",
+  "name": "Party Party",
+  "version": "3.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "MECHANIC",
+  "game_version": ">=0.3.54 <0.4.0",
+  "games": [
+    "firered",
+    "leafgreen",
+    "emerald"
+  ],
+  "priority": 350,
+  "dependencies": [
+    "untamed_advanced@>=1.0.0-beta.7 <2.0.0"
+  ],
+  "dependency_sources": {
+    "untamed_advanced": "goldenroddeptstore/Untamed-Advanced"
+  },
+  "optional_dependencies": [
+    "1025dex",
+    "firered_complete_dex",
+    "kanto_hoenn"
+  ],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "affects_link": true,
+  "github": "Bentley734/Party-Party",
+  "description": "Follower add-on for Untamed Advanced: six party Pokemon, idle/group behaviors, safe arrivals, shared settings and restored 1025Dex species, encounter and exact-battle compatibility."
+}
