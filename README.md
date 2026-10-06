@@ -1,4 +1,5 @@
 # Party Party 3.1.0
+<img width="1254" height="1254" alt="ChatGPT Image Oct 6, 2026, 08_48_39 AM" src="https://github.com/user-attachments/assets/dcbfc94a-7f62-45ee-9a86-a71ca2132606" />
 
 A follower add-on for [Untamed Advanced](https://github.com/goldenroddeptstore/Untamed-Advanced). This is the successor to WildFollowers: Untamed owns the wild encounters, and Party Party extends its party followers.
 
